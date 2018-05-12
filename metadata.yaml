@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '6444'
     url: http://www.gutenberg.org/2009/agents/6444
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16046#Boy-Blue-and-His-Friends
 gutenberg_bookshelf: Children's Instructional Books
 gutenberg_issued: '2005-06-13'
 gutenberg_type: Text
