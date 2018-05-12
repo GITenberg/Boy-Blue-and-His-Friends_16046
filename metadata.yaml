@@ -1,0 +1,39 @@
+_repo: Boy-Blue-and-His-Friends_16046
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Touser, Maud
+    gutenberg_agent_id: '6445'
+    url: http://www.gutenberg.org/2009/agents/6445
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: McDonald, Etta Blaisdell
+    aliases:
+    - Blaisdell, Etta Austin
+    - McDonald, Etta Austin Blaisdell
+    birthdate: 1872
+    gutenberg_agent_id: '6443'
+    url: http://www.gutenberg.org/2009/agents/6443
+  - agent_name: Blaisdell, Mary Frances
+    birthdate: 1874
+    gutenberg_agent_id: '6444'
+    url: http://www.gutenberg.org/2009/agents/6444
+description: ''
+gutenberg_bookshelf: Children's Instructional Books
+gutenberg_issued: '2005-06-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16046'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nursery rhymes -- Adaptations'
+- !lcsh 'Children''s stories, American'
+- !lcc 'PZ'
+title: Boy Blue and His Friends
+url: http://www.gutenberg.org/ebooks/16046
